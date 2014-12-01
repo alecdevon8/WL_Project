@@ -1,0 +1,14 @@
+C:\Users\H4\Documents\Visual Studio 2013\Projects\Weightlifting\Weightlifting\bin\Weightlifting.dll.config
+C:\Users\H4\Documents\Visual Studio 2013\Projects\Weightlifting\Weightlifting\bin\Weightlifting.dll
+C:\Users\H4\Documents\Visual Studio 2013\Projects\Weightlifting\Weightlifting\bin\Weightlifting.pdb
+C:\Users\H4\Documents\Visual Studio 2013\Projects\Weightlifting\Weightlifting\bin\Weightlifting.xml
+C:\Users\H4\Documents\Visual Studio 2013\Projects\Weightlifting\Weightlifting\bin\EntityFramework.dll
+C:\Users\H4\Documents\Visual Studio 2013\Projects\Weightlifting\Weightlifting\bin\EntityFramework.SqlServer.dll
+C:\Users\H4\Documents\Visual Studio 2013\Projects\Weightlifting\Weightlifting\bin\EntityFramework.xml
+C:\Users\H4\Documents\Visual Studio 2013\Projects\Weightlifting\Weightlifting\bin\EntityFramework.SqlServer.xml
+C:\Users\H4\Documents\Visual Studio 2013\Projects\Weightlifting\Weightlifting\obj\Debug\Weightlifting.vbprojResolveAssemblyReference.cache
+C:\Users\H4\Documents\Visual Studio 2013\Projects\Weightlifting\Weightlifting\obj\Debug\Weightlifting.Resources.resources
+C:\Users\H4\Documents\Visual Studio 2013\Projects\Weightlifting\Weightlifting\obj\Debug\Weightlifting.vbproj.GenerateResource.Cache
+C:\Users\H4\Documents\Visual Studio 2013\Projects\Weightlifting\Weightlifting\obj\Debug\Weightlifting.dll
+C:\Users\H4\Documents\Visual Studio 2013\Projects\Weightlifting\Weightlifting\obj\Debug\Weightlifting.xml
+C:\Users\H4\Documents\Visual Studio 2013\Projects\Weightlifting\Weightlifting\obj\Debug\Weightlifting.pdb
